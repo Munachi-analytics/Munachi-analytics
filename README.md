@@ -1,6 +1,6 @@
 # Hi, I'm Munachi 👋
 
-### Aspiring Data Analyst | Architectural Designer | Technology Enthusiast
+### Data Analyst | Architectural Designer | Technology Enthusiast
 
 I'm developing my skills in data analytics and exploring how technology can solve real-world business problems.
 
