@@ -14,7 +14,7 @@ I'm developing my skills in data analytics and exploring how technology can solv
 - Data Visualization
 
 ### 📊 Featured Project
-**Fashion Retail Sales Analysis**
+**[Fashion Retail Sales Analysis](https://github.com/Munachi-analytics/fashion-retail-sales-analysis)**
 
 An analysis of fashion retail sales trends and customer purchasing behaviour using Excel, SQL and Power BI.
 
